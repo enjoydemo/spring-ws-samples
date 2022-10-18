@@ -25,7 +25,7 @@
 		<sourcesDir>${project.basedir}/target/generated-sources/axis</sourcesDir>
 		<classesDir>${project.basedir}/target/classes</classesDir>
 		<wsdl>${project.basedir}/../airline.wsdl</wsdl>
-		<wsdl4j.version>1.6.1</wsdl4j.version>
+		<wsdl4j.version>1.6.3</wsdl4j.version>
 		<xmlschema.version>2.1.0</xmlschema.version>
 	</properties>
 
